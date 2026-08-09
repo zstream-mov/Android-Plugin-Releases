@@ -1,7 +1,7 @@
 {
-  "latestVersion": 15,
+  "latestVersion": 16,
   "minAppVersion": 3,
-  "downloadUrl": "https://github.com/zstream-mov/Android-Plugin-Releases/releases/download/v15/plugin-v15.apk",
-  "hash": "sha256:617f1b9dfe74af223939588f73a7dbbc860e2814e42d128b82abfb05a42eb3e3",
-  "displayVersion": "v1.6.5"
+  "downloadUrl": "https://github.com/zstream-mov/Android-Plugin-Releases/releases/download/v16/plugin-v16.apk",
+  "hash": "sha256:b82dfcbe3afbb52f7290d603528a07c2774e0721d470f3de7327c8897b8aa06c",
+  "displayVersion": "v1.6.6"
 }
